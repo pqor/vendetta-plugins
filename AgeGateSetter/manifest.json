@@ -1,0 +1,13 @@
+{
+    "name": "AgeGateSetter",
+    "description": "Sets ageVerificationStatus to 2 (Teen) to bypass the NSFW age gate.",
+    "authors": [
+        {
+            "name": "caught",
+            "id": "555187904796688384"
+        }
+    ],
+    "main": "index.js",
+    "hash": "",
+    "version": "1.0.0"
+}
